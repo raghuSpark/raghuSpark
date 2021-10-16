@@ -9,7 +9,7 @@ Skills: ANDROID DEV / C / C++ / JAVA / HTML / CSS / JS
 - 🌱 I’m currently learning Backend Development and React.js 
 
 
-[<img src='https://raw.githubusercontent.com/raghuSpark/raghuSpark/main/github.svg' alt='github' height='40'>](https://github.com/raghuSpark)  [<img src='https://raw.githubusercontent.com/raghuSpark/raghuSpark/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raghuspark/)  
+[<img src='https://raw.githubusercontent.com/raghuSpark/raghuSpark/main/github.svg' alt='github' height='40'>](https://github.com/raghuSpark)  [<img src='https://raw.githubusercontent.com/raghuSpark/raghuSpark/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raghuspark/)  [<img src='https://raw.githubusercontent.com/raghuSpark/raghuSpark/main/cc-logo-sd.svg' alt='codechef' height='40'>](https://www.codechef.com/users/raghu_spark)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raghuSpark&show_icons=true&count_private=true)  
 
