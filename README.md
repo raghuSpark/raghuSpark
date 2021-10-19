@@ -1,35 +1,11 @@
-### Hi there 👋, I'm Raghu
-#### ECE undergrad at NIT Warangal
-![ECE undergrad at NIT Warangal](https://github.com/raghuSpark/raghuSpark/blob/main/stevejobs_quote.png?raw=true)
-
-
-Skills: ANDROID DEV / C / C++ / JAVA / HTML / CSS / JS
-
+## Hey 👋, This is Raghupathi Naidu Sappa
+[![Gmail Badge](https://img.shields.io/badge/-sparkraghu1508@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sparkraghu1508@gmail.com)](mailto:sparkraghu1508@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-raghu_spark-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghu_spark/)](https://www.linkedin.com/in/raghu_spark/) [![Github Badge](https://img.shields.io/badge/-raghuSpark-grey?style=flat&logo=github&logoColor=white&link=https://github.com/raghuSpark/)](https://www.github.com/raghuSpark/)
 - 🔭 I’m currently working on API for [CPing](https://play.google.com/store/apps/details?id=com.rr.CPing). 
-- 🌱 I’m currently learning Backend Development and React.js 
+- 🌱 I’m currently learning Backend Development and React.js
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=raghuSpark alt=raghuSpark /> </p>
 
-
-[<img src='https://raw.githubusercontent.com/raghuSpark/raghuSpark/main/github.svg' alt='github' height='40'>](https://github.com/raghuSpark)  [<img src='https://raw.githubusercontent.com/raghuSpark/raghuSpark/main/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raghuspark/)  [<img src='https://raw.githubusercontent.com/raghuSpark/raghuSpark/main/cc-logo-sd.svg' alt='codechef' height='40'>](https://www.codechef.com/users/raghu_spark)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raghuSpark&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raghuSpark)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=raghuSpark)  
-
-![Profile views](https://gpvc.arturio.dev/raghuSpark)  
-
-<!--
-**raghuSpark/raghuSpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raghuSpark)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=raghuSpark&show_icons=true&include_all_commits=true)](https://github.com/raghuSpark/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghuSpark&layout=compact)](https://github.com/raghuSpark/github-readme-stats)
