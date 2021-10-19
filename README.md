@@ -6,6 +6,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=raghuSpark alt=raghuSpark /> </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raghuSpark)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=raghuSpark&show_icons=true&include_all_commits=true)](https://github.com/raghuSpark/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghuSpark&layout=compact)](https://github.com/raghuSpark/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raghuSpark&theme=algolia&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghuSpark&theme=algolia&layout=compact)](https://github.com/raghuSpark/github-readme-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raghuSpark&theme=algolia)
