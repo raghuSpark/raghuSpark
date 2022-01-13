@@ -8,4 +8,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=raghuSpark&theme=algolia&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghuSpark&theme=algolia&layout=compact)](https://github.com/raghuSpark/github-readme-stats)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raghuSpark&theme=algolia)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raghuSpark&theme=algolia) -->
